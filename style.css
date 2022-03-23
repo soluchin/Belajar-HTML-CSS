@@ -1,0 +1,35 @@
+li{
+	font-family: sans-serif;
+	font-size: 18px;
+	float: left;
+	list-style: none;
+	padding: 35px 20px;
+}
+
+.header-logo{
+	float: left;
+	padding: 25px 20px;
+	font-family: sans-serif;
+	font-size: 36px;
+}
+
+.header-list{
+
+}
+
+.header{
+	font-weight: bold;
+	background-color: #488FB1;
+	height: 90px;
+	color: white;
+}
+
+.main{
+	background-color: #FFFFFF;
+	height: 600px;
+}
+
+.footer{
+	background-color: #533E85;
+	height: 200px;
+}
